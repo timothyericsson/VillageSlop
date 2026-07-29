@@ -1,0 +1,25 @@
+Villagers Source-Viewing License (VSVL-1.0)
+
+Copyright (c) 2026 Timothy Ericsson
+
+Preamble
+This license applies to the source code of the game Villagers (the “Software”) as published on GitHub. The Software is made available solely so that others may inspect and review the code. It is not free software, open-source software, or under any OSI-approved or FSF-approved license.
+
+Permissions
+Subject to the restrictions below, you are granted a limited, non-exclusive, non-transferable, royalty-free right to:
+
+View and review the source code of the Software on GitHub (or any other location where the copyright holder has published it) for the purpose of examination, study, or providing feedback.
+Clone the repository (using git clone) solely for the purpose of compiling the Software yourself.
+Compile the source code yourself and run the resulting binary only for your own personal, private use. 
+
+Restrictions
+You may not:
+Fork the repository (or create any GitHub fork, mirror, or public copy that is presented as a fork or derivative repository).
+Create, host, upload, share, sell, or otherwise distribute any prebuilt binary, executable, installer, or package of the Software (modified or unmodified) to any third party.
+Redistribute the source code itself in any form (including modified versions, patches, or derivatives) except as necessary for the personal compilation right granted above.
+Use the Software or any part of it for commercial purposes, or incorporate any portion of the code into another project.
+Remove or alter any copyright, license, or proprietary notices.
+
+All rights not expressly granted above are reserved by the copyright holder. No Warranty. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.TerminationAny violation of the restrictions above automatically terminates the rights granted under this license.
+
+
